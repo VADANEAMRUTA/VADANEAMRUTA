@@ -16,7 +16,7 @@
 
 🎓 **B.Tech in Information Technology**  
 Sanjivani College of Engineering (2026)  
-📊 CGPA: **8.82**
+📊 CGPA: **8.75**
 
 🏫 **XII (2022)** — 86%  
 🏫 **X (2020)** — 92.80%
