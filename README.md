@@ -1,121 +1,187 @@
 # Hi 👋, I'm Amruta Vadane
 
-### 🚀 B.Tech Information Technology Student | Java Developer | Cloud & Backend Enthusiast
+### 🚀 AI Engineer | Software Engineer | B.Tech IT Student (2026)
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-🌱 Currently learning **Spring Boot, AWS Cloud, Backend Development**  
-🎯 Seeking opportunities for **Graduate Engineer / Software Engineer roles**  
-💻 Passionate about **Cloud Computing, Java Backend, REST APIs & Data Analytics**  
-📍 Location: India  
-📫 Reach me at: **amrutasakharamvadane10@gmail.com**
+I'm passionate about building intelligent AI applications and scalable backend systems. I enjoy working with Large Language Models (LLMs), Agentic AI workflows, Python, Java, Spring Boot, and cloud technologies to solve real-world problems.
 
 ---
 
-## 👨‍🎓 Education
+## 👩‍💻 About Me
 
-🎓 **B.Tech in Information Technology**  
-Sanjivani College of Engineering (2026)  
-📊 CGPA: **8.75**
-
-🏫 **XII (2022)** — 86%  
-🏫 **X (2020)** — 92.80%
+* 🎓 B.Tech in Information Technology (2026)
+* 📍 India
+* 🌱 Currently learning **Agentic AI, LangChain, RAG, FastAPI, Spring Boot, AWS**
+* 💡 Interested in **AI Engineering, Generative AI, Backend Development, and Cloud Computing**
+* 💼 Looking for **AI Engineer, GenAI Engineer, Software Engineer, Backend Developer** opportunities
+* 📫 Email: **[amrutasakharamvadane10@gmail.com](mailto:amrutasakharamvadane10@gmail.com)**
 
 ---
 
-## 💻 Technical Skills
+## 🛠️ Tech Stack
 
-### 🚀 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 💻 Programming Languages
 
-### ⚡ Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+* Python
+* Java
+* JavaScript
+* SQL
+
+### 🤖 AI & Machine Learning
+
+* Generative AI
+* Large Language Models (LLMs)
+* Prompt Engineering
+* Agentic AI
+* LangChain
+* OpenAI API
+* NLP
+* Machine Learning
+* RAG (Learning)
+
+### ⚙️ Backend Development
+
+* Spring Boot
+* Flask
+* REST APIs
+* JWT Authentication
+
+### 🌐 Frontend
+
+* React.js
+* Next.js
+* HTML
+* CSS
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌐 Frontend & Tools
-![React](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+* MySQL
+* PostgreSQL
+* MongoDB
 
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+### ☁️ Cloud & Dev Tools
+
+* AWS (EC2, S3)
+* Git & GitHub
+* Docker (Basics)
+* VS Code
+* IntelliJ IDEA
+* Postman
+* GitHub Copilot
+* Cursor AI
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
-### 🔍 Social Media Fraud Detection
-- Built ML model using **Python & NLP**
-- Detects fraudulent social media activities and fake content
 
-### 🎉 Event Aggregator System
-- Developed using **Spring Boot, JWT, AWS EC2 & MySQL**
-- Secure event management and authentication system
+## 🔍 Social Media Fraud Detection for agriculture markets
 
-### 🏠 Room Rental Management System
-- Developed using **PHP & MySQL**
-- Manages room booking and rental operations efficiently
+*Developed a Flask-based fraud detection system for agriculture-related social media ads using Python, OCR, rule-based checks, and supervised machine learning to classify text, image, and URL inputs.
+*Implemented website analysis and ML prediction using TF-IDF, URL/domain features, suspicious keyword checks, typosquatting detection, and SQLite/MySQL storage for scan history and user activity.
+
+**Tech Stack:** Python • Machine Learning • NLP • LLMs
+
+---
+
+## 🤖 Agentic Resume Analyzer
+
+* AI-powered resume analyzer using LLMs
+* Resume parsing and intelligent feedback
+* Prompt engineering
+* Agentic workflow implementation
+
+**Tech Stack:** Python • LLM • LangChain • OpenAI API
+
+---
+
+## 🎉 Event Aggregator System
+
+* Backend application built using Spring Boot
+* REST APIs with JWT Authentication
+* Event management and analytics
+* MySQL database integration
+
+**Tech Stack:** Java • Spring Boot • MySQL • REST APIs
+
+---
+
+## 🏠 Room Rental Management System
+
+* Full-stack room rental management platform
+* Booking management and user authentication
+* Database-driven application
+
+**Tech Stack:** Java • Spring Boot • MySQL
 
 ---
 
 ## 💼 Experience
 
 ### ☁️ AWS Cloud Training — FUEL
-📅 Jan 2026 – Feb 2026
-- Worked on AWS cloud services including EC2 & S3
-- Learned cloud deployment and architecture basics
 
-### 📊 Data Analytics Trainee — Godrej Infotech
-📅 Jan 2025 – Mar 2025
-- Worked on data analytics concepts and reporting
-- Hands-on experience with data processing & analysis
+* Learned AWS EC2 and S3
+* Basic cloud architecture
+* Cloud deployment concepts
 
 ---
 
-## 🏆 Certifications
+### 📊 Data Analytics Trainee — Godrej Infotech
 
-🏅 AWS Cloud Architecting  
-🏅 NPTEL Java & DSA  
-🏅 PMKVY Java Programmer  
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* Dashboard creation
+* Business insights using Python
+
+---
+
+## 📜 Certifications
+
+* ✅ Data Analytics with Cloud Computing & AI – Godrej Infotech
+* ✅ AWS Academy Cloud Architecting
+* ✅ NPTEL Python for Data Science
+* ✅ NPTEL Programming in Java
+* ✅ NPTEL DSA using Java
+* ✅ Government Certified Java Programmer (PMKVY)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VADANEAMRUTA&show_icons=true&theme=tokyonight" alt="stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VADANEAMRUTA&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VADANEAMRUTA&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VADANEAMRUTA&theme=tokyonight" alt="streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VADANEAMRUTA&layout=compact&theme=tokyonight" alt="languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VADANEAMRUTA&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌱 Currently Exploring
 
-<p align="left">
-<a href="https://github.com/VADANEAMRUTA" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" />
-</a>
-</p>
+* Agentic AI
+* LangGraph
+* MCP (Model Context Protocol)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* FastAPI
+* Docker
+* AWS
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VADANEAMRUTA&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## 🤝 Connect With Me
 
-⭐ *Thanks for visiting my profile!*
+* 📧 Email: **[amrutasakharamvadane10@gmail.com](mailto:amrutasakharamvadane10@gmail.com)**
+* 💼 LinkedIn: **[www.linkedin.com/in/vadane-amruta-9a70a026a](http://www.linkedin.com/in/vadane-amruta-9a70a026a)**
+* 💻 GitHub: **github.com/VADANEAMRUTA**
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
